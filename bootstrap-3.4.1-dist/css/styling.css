@@ -1,0 +1,41 @@
+.brand-image {
+    border: black;
+    border-radius: 225px;
+    height: 33px;
+    width: 50px;
+    margin-top: -8px;
+}
+.line{
+    height: 2px;
+    width: 150px;
+    margin-left: -17px;
+    background-color: rgb(250, 139, 139);
+}
+.flags{
+    justify-content: center;
+    height: 1rem;
+    margin-right: 40px;
+}
+.flags>img{
+    height: 25px;
+    margin-left: 180px;
+    padding-top: 15px;
+}
+.carousel-inner2{
+    height: 350px;
+    margin-top: -20px;
+}
+.thumbnail1{
+    margin-top: 80px;
+}
+.footer {
+   background-color: rgb(32, 32, 132);
+   color: #fff;
+}
+#r{
+    font-size: x-small;
+    
+}
+#office{
+    margin: 0 0 -4px;
+}
